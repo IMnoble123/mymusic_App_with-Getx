@@ -1,16 +1,25 @@
-# mymusic
+Mymusic
+an Offine Music palyer by flutter
 
-A new Flutter project.
+Features
+user can create playlist and add fav,
+filtered search
+Hive as database
+Mvc folder structure
+Deployment
+playstore : https://play.google.com/store/apps/details?id=apps.mymusic
 
-## Getting Started
+Run Locally
+Clone the project
 
-This project is a starting point for a Flutter application.
+  git clone https://github.com/IMnoble123/mymusic_App_with-Getx.git
+Go to the project directory
 
-A few resources to get you started if this is your first Flutter project:
+  cd my-project
+Install dependencies
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+  flutter clean
+Start the server
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ flutter pub get
+flutter run
