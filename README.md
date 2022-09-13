@@ -6,8 +6,12 @@ user can create playlist and add fav,
 filtered search
 Hive as database
 Mvc folder structure
+
+
+
 Deployment
 playstore : https://play.google.com/store/apps/details?id=apps.mymusic
+
 
 Run Locally
 Clone the project
