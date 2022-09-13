@@ -1,7 +1,7 @@
-Mymusic
+# Mymusic
 an Offine Music palyer by flutter
 
-Features
+## Features
 user can create playlist and add fav,
 filtered search
 Hive as database
@@ -9,11 +9,11 @@ Mvc folder structure
 
 
 
-Deployment
+## Deployment
 playstore : https://play.google.com/store/apps/details?id=apps.mymusic
 
 
-Run Locally
+## Run Locally
 Clone the project
 
   git clone https://github.com/IMnoble123/mymusic_App_with-Getx.git
@@ -23,7 +23,7 @@ Go to the project directory
 Install dependencies
 
   flutter clean
-Start the server
+  Start the server
 
- flutter pub get
-flutter run
+  flutter pub get
+  flutter run
